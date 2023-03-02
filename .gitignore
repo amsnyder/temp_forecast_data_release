@@ -4,3 +4,5 @@ data/
 metadata/
 # contains metadata check files that Sam Oliver emailed to me and I didn't use
 metadata_checks/
+
+.ipynb_checkpoints/
