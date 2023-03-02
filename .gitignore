@@ -1,0 +1,6 @@
+# download from SB using data_fetch_unzip
+data/
+# just had word docs of metadata to review collaboratively
+metadata/
+# contains metadata check files that Sam Oliver emailed to me and I didn't use
+metadata_checks/
